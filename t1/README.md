@@ -4,7 +4,7 @@ Juliana Karoline de Sousa - RA 594997
 ## O que é SOLID?
 SOLID é um conjunto de princípios utilizado no paradigma de orientação a objetos que ajuda na escrita de códigos flexíveis e de fácil manutenção.
 
-Esses princípios foram definidos por Robtert C. Martin, também conhecido como Uncle Bob. Atualmente SOLID pode ser considerado como parte da metodologia ágil de desenvolvimento.
+Esses princípios foram definidos por Robert C. Martin, também conhecido como Uncle Bob. Atualmente SOLID pode ser considerado como parte da metodologia ágil de desenvolvimento.
 
 ## Por que usar SOLID?
 Desenvolver software sem planejamento ou sem padrões de design pode resultar num código passível de bugs e altamente acoplado. 
